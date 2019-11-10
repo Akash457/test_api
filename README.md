@@ -5,3 +5,7 @@
 #Points To Be Noted
 #I have used Junit to write the test in Eclipse.
 
+- You might have to edit the the file .classpath and direct the java-json.jar <classpathentry kind="lib" path="C:/Users/c5254352/Downloads/java-json/java-json.jar"/> according to your directory.
+
+
+
